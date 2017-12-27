@@ -10,9 +10,9 @@ To compile and run this you'll need:
 
 
 more 21st Century-style alternative:
-- any system that can run DOSBOX (set to monochrome mode!)
+- any system that can run DOSBox (set to monochrome mode!)
 https://www.dosbox.com
 
 
-and you will defenately need:
+and you will definately need:
 - Turbo Pascal 5.5 package
